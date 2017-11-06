@@ -35,3 +35,4 @@ Below is a working list of various ethical issues technology builders may encoun
 - [http://www.timewellspent.io/](http://www.timewellspent.io/)
 - [https://twitter.com/kumailn/status/925828976882282496](https://twitter.com/kumailn/status/925828976882282496)
 - [https://www.neustadt.fr/essays/against-a-user-hostile-web/](https://www.neustadt.fr/essays/against-a-user-hostile-web/)
+- [https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
