@@ -1,28 +1,29 @@
 # `/ethics`
 
-> https://yourawesomesite.com/ethics
-> #### Reserve the /ethics URL to showcase your business' ethical stance on various technological decisions
+> `https://yourawesomesite.com/ethics`
+>
+> `Reserve the /ethics URL to showcase your business' ethical stance on various technological decisions`
 
-As technology continues to becomes pervasive in our daily lives, it's important to think...
+With technology playing an ever-increasing role in our daily lives, it's important we consider the various ethical questions raised as a result. The `/ethics` (slashethics) initiative provides an authoritative place for entities to broadcast their ethical considerations regarding the technology they build and deploy to the world.  
 
-## Goal
+## What are the goals of the `/ethics` initiative? 
 
-Discuss the major topics surrounding ethics in technology....
-
+1. Define and discuss the ethical [topics](#topics) surrounding technology today
+2. Provide an authoritative place for any business to showcase their ethical stance
 
 ## Topics
 
-#### [Data Collection]()
-#### [Data Ownership]()
-#### [Design]()
-#### [Privacy]()
-#### [Censorship]()
-#### [Interoperability]()
-#### [Advertising]()
-#### [Security]()
-#### [Trackers & Scripts]()
+#### [Data Collection](issues/1)
+#### [Data Ownership](issues/2)
+#### [Design](issues/3)
+#### [Privacy](issues/4)
+#### [Censorship](issues/5)
+#### [Interoperability](issues/6)
+#### [Advertising](issues/7)
+#### [Security](issues/8)
+#### [Trackers & Scripts](issues/9)
 
-Are we missing any? Please help by contributing more [here]()
+Are we missing any? Please help by [opening an issue](issues) to start a conversation!
 
 ## Prior Art
 - [/purpose](http://slashpurpose.org/) from [Fictive Kin](https://fictivekin.com)
