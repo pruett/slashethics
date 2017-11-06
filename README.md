@@ -30,6 +30,6 @@ Are we missing any? Please help by [opening an issue](issues) to start a convers
 - [/green](http://slashgreen.org/) from [Kyle MacDonald](https://github.com/kylemac)
 
 ## Inspiration
-- [http://www.timewellspent.io/]()
-- [https://twitter.com/kumailn/status/925828976882282496]()
-- [https://www.neustadt.fr/essays/against-a-user-hostile-web/]()
+- [http://www.timewellspent.io/](http://www.timewellspent.io/)
+- [https://twitter.com/kumailn/status/925828976882282496](https://twitter.com/kumailn/status/925828976882282496)
+- [https://www.neustadt.fr/essays/against-a-user-hostile-web/](https://www.neustadt.fr/essays/against-a-user-hostile-web/)
