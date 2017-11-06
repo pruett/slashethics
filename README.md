@@ -9,16 +9,20 @@ As technology continues to becomes pervasive in our daily lives, it's important 
 
 Discuss the major topics surrounding ethics in technology....
 
-<p>
-  <details>
-    <summary><b>Topics</b></summary>
-    <ul>
-      <li><a>First</a></li>
-      <li><a>Second</a></li>
-      <li><a>Third</a></li>
-    </ul>
-  </details>
-</p>
+
+## Topics
+
+#### [Data Collection]()
+#### [Data Ownership]()
+#### [Design]()
+#### [Privacy]()
+#### [Censorship]()
+#### [Interoperability]()
+#### [Advertising]()
+#### [Security]()
+#### [Trackers & Scripts]()
+
+Are we missing any? Please help by contributing more [here]()
 
 ## Prior Art
 - [/purpose](http://slashpurpose.org/) from [Fictive Kin](https://fictivekin.com)
