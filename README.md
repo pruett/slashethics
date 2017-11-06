@@ -27,3 +27,4 @@ Discuss the major topics surrounding ethics in technology....
 ## Inspiration
 - [http://www.timewellspent.io/]()
 - [https://twitter.com/kumailn/status/925828976882282496]()
+- [https://www.neustadt.fr/essays/against-a-user-hostile-web/]()
