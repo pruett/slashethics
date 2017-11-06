@@ -1,17 +1,21 @@
 # `/ethics`
 
-> `https://yourawesomesite.com/ethics`
+> `https://<yourwebsite.com>/ethics`
 >
-> `Reserve the /ethics URL to showcase your business' ethical stance on various technological decisions`
+> `Participate by reserving the /ethics URL on your domain to speak to your ethical decisions technological landscape`
 
-With technology playing an ever-increasing role in our daily lives, it's important we consider the various ethical questions raised as a result. The `/ethics` (slashethics) initiative provides an authoritative place for entities to broadcast their ethical considerations regarding the technology they build and deploy to the world.  
+With technology playing an ever-increasing role in our daily lives, it's important we consider the various ethical concerns raised as a result. The `/ethics` (slashethics) initiative provides an authoritative place for entities to broadcast their ethical considerations regarding the technology they build and deploy to the world.
 
 ## What are the goals of the `/ethics` initiative? 
 
-1. Define and discuss the ethical [topics](#topics) surrounding technology today
-2. Provide an authoritative place for any business to showcase their ethical stance
+1. Define and discuss ethical [issues](#issues) related to today's technology
+2. Provide an authoritative place (/ethics URL) to share views on such issues
 
-## Topics
+## Issues
+
+Below is a working list of various ethical issues technology builders may encounter. Feel free to post questions, related links, personal experiences, etc. in the comment threads. We want to encourage an open but friendly discourse surrounding these often complicated topics.    
+
+**Are we missing an important topic? Please help by [opening an issue](issues) to start a new conversation!**
 
 #### [Data Collection](issues/1)
 #### [Data Ownership](issues/2)
@@ -22,8 +26,6 @@ With technology playing an ever-increasing role in our daily lives, it's importa
 #### [Advertising](issues/7)
 #### [Security](issues/8)
 #### [Trackers & Scripts](issues/9)
-
-Are we missing any? Please help by [opening an issue](issues) to start a conversation!
 
 ## Prior Art
 - [/purpose](http://slashpurpose.org/) from [Fictive Kin](https://fictivekin.com)
